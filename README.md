@@ -1,4 +1,4 @@
-# Video Chat App
+# EasyTalk - Video Chat App
 
 ## To Run Locally
 1. Clone the repo
